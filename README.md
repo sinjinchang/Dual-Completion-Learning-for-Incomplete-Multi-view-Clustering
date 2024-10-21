@@ -1,4 +1,4 @@
-# Dual-Completion-Learning-for-Incomplete-Multi-view-Clustering (IEEE TETCI)
+# Dual Completion Learning for Incomplete Multi-view Clustering (IEEE TETCI)
 
 ## Citation
 
