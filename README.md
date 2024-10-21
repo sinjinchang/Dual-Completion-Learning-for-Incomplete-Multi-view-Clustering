@@ -1,5 +1,11 @@
 # Dual Completion Learning for Incomplete Multi-view Clustering (IEEE TETCI)
 
+
+```bash
+# usage
+demo.m
+```
+
 ## Citation
 
 If you find our work useful, please cite our paper by the following:
